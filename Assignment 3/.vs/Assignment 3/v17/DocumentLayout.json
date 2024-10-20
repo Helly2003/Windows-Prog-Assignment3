@@ -8,9 +8,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignment 3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2DD7008-B31A-477C-B7FC-944750C46B5B}|Assignment 3.csproj|c:\\users\\helly\\onedrive\\desktop\\sem 3\\windows prog\\assignment 3\\assignment 3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,8 +28,7 @@
               "ToolTip": "C:\\Users\\helly\\OneDrive\\Desktop\\SEM 3\\Windows prog\\Assignment 3\\Assignment 3\\Assignment 3.csproj",
               "RelativeToolTip": "Assignment 3.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-20T03:02:45.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T03:02:45.265Z"
             },
             {
               "$type": "Document",
@@ -42,7 +38,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\helly\\OneDrive\\Desktop\\SEM 3\\Windows prog\\Assignment 3\\Assignment 3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T02:34:34.723Z",
               "EditorCaption": ""
